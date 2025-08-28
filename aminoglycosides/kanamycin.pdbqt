@@ -1,0 +1,108 @@
+REMARK  17 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O9_42 
+REMARK    2  A    between atoms: C2_2  and  O6_36 
+REMARK    3  A    between atoms: C3_3  and  O7_38 
+REMARK    4  A    between atoms: C4_4  and  O8_40 
+REMARK    5  A    between atoms: C5_5  and  C6_6 
+REMARK    6  A    between atoms: C6_6  and  N1_19 
+REMARK    7  A    between atoms: C7_7  and  N3_27 
+REMARK    8  A    between atoms: C8_8  and  O11_45 
+REMARK    9  A    between atoms: C9_9  and  O10_43 
+REMARK   10  A    between atoms: C10_10  and  O9_42 
+REMARK   11  A    between atoms: C11_11  and  N2_23 
+REMARK   12  A    between atoms: C13_13  and  O11_45 
+REMARK   13  A    between atoms: C14_14  and  O13_47 
+REMARK   14  A    between atoms: C15_15  and  N4_31 
+REMARK   15  A    between atoms: C16_16  and  O14_49 
+REMARK   16  A    between atoms: C17_17  and  C18_18 
+REMARK   17  A    between atoms: C18_18  and  O15_51 
+ROOT
+HETATM    1  C7  KAN A  50      -0.841  -8.953  17.842  1.00 39.27     0.217 C 
+HETATM    2  C8  KAN A  50       0.443  -8.899  16.991  1.00 40.25     0.186 C 
+HETATM    3  C9  KAN A  50       1.685  -8.881  17.898  1.00 40.67     0.180 C 
+HETATM    4  C10 KAN A  50       1.644  -7.645  18.863  1.00 39.81     0.186 C 
+HETATM    5  C11 KAN A  50       0.338  -7.720  19.742  1.00 39.11     0.217 C 
+HETATM    6  C12 KAN A  50      -0.918  -7.738  18.807  1.00 38.88     0.071 C 
+ENDROOT
+BRANCH   2   7
+HETATM    7  O11 KAN A  50       0.511 -10.047  16.135  1.00 41.74    -0.349 OA
+BRANCH   7   8
+HETATM    8  C13 KAN A  50       0.171  -9.917  14.776  1.00 42.42     0.291 C 
+HETATM    9  C14 KAN A  50      -0.574 -11.211  14.335  1.00 42.57     0.206 C 
+HETATM   10  C15 KAN A  50       0.373 -12.443  14.473  1.00 42.82     0.247 C 
+HETATM   11  C16 KAN A  50       1.636 -12.199  13.574  1.00 43.15     0.182 C 
+HETATM   12  C17 KAN A  50       2.337 -10.886  14.030  1.00 43.06     0.179 C 
+HETATM   13  O12 KAN A  50       1.396  -9.741  13.977  1.00 42.47    -0.349 OA
+BRANCH   9  14
+HETATM   14  O13 KAN A  50      -1.747 -11.365  15.123  1.00 42.67    -0.388 OA
+ATOM     15  H13 KAN A  50      -2.202 -12.155  14.854  1.00  0.00     0.210 HD
+ENDBRANCH   9  14
+BRANCH  10  16
+HETATM   16  N4  KAN A  50      -0.323 -13.689  14.073  1.00 43.57    -0.070 N 
+ATOM     17  H43 KAN A  50      -1.191 -13.820  14.593  1.00  0.00     0.274 HD
+ATOM     18  H42 KAN A  50      -0.715 -13.618  13.134  1.00  0.00     0.274 HD
+ATOM     19  H41 KAN A  50       0.296 -14.495  14.163  1.00  0.00     0.274 HD
+ENDBRANCH  10  16
+BRANCH  11  20
+HETATM   20  O14 KAN A  50       2.551 -13.311  13.640  1.00 42.76    -0.391 OA
+ATOM     21  H14 KAN A  50       3.316 -13.163  13.096  1.00  0.00     0.210 HD
+ENDBRANCH  11  20
+BRANCH  12  22
+HETATM   22  C18 KAN A  50       3.552 -10.557  13.169  1.00 43.89     0.198 C 
+BRANCH  22  23
+HETATM   23  O15 KAN A  50       3.302  -9.459  12.271  1.00 44.63    -0.398 OA
+ATOM     24  H15 KAN A  50       4.059  -9.254  11.735  1.00  0.00     0.209 HD
+ENDBRANCH  22  23
+ENDBRANCH  12  22
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   1  25
+HETATM   25  N3  KAN A  50      -2.018  -8.980  16.953  1.00 38.33    -0.072 N 
+ATOM     26  H33 KAN A  50      -2.023  -8.200  16.296  1.00  0.00     0.274 HD
+ATOM     27  H32 KAN A  50      -1.972  -9.741  16.275  1.00  0.00     0.274 HD
+ATOM     28  H31 KAN A  50      -2.868  -9.016  17.516  1.00  0.00     0.274 HD
+ENDBRANCH   1  25
+BRANCH   3  29
+HETATM   29  O10 KAN A  50       2.839  -8.831  17.062  1.00 41.34    -0.390 OA
+ATOM     30  H10 KAN A  50       3.606  -8.820  17.622  1.00  0.00     0.210 HD
+ENDBRANCH   3  29
+BRANCH   4  31
+HETATM   31  O9  KAN A  50       2.800  -7.653  19.746  1.00 39.10    -0.349 OA
+BRANCH  31  32
+HETATM   32  C1  KAN A  50       4.051  -7.084  19.369  1.00 38.96     0.292 C 
+HETATM   33  C2  KAN A  50       5.158  -7.983  19.982  1.00 39.54     0.204 C 
+HETATM   34  C3  KAN A  50       4.994  -8.007  21.547  1.00 39.78     0.183 C 
+HETATM   35  C4  KAN A  50       5.137  -6.541  22.056  1.00 39.32     0.180 C 
+HETATM   36  C5  KAN A  50       4.049  -5.637  21.386  1.00 38.86     0.181 C 
+HETATM   37  O5  KAN A  50       4.172  -5.716  19.915  1.00 38.92    -0.349 OA
+BRANCH  33  38
+HETATM   38  O6  KAN A  50       5.033  -9.341  19.431  1.00 39.34    -0.388 OA
+ATOM     39  H6  KAN A  50       5.711  -9.891  19.806  1.00  0.00     0.210 HD
+ENDBRANCH  33  38
+BRANCH  34  40
+HETATM   40  O7  KAN A  50       5.958  -8.824  22.113  1.00 39.54    -0.390 OA
+ATOM     41  H7  KAN A  50       5.859  -8.838  23.058  1.00  0.00     0.210 HD
+ENDBRANCH  34  40
+BRANCH  35  42
+HETATM   42  O8  KAN A  50       5.003  -6.483  23.482  1.00 39.58    -0.390 OA
+ATOM     43  H8  KAN A  50       5.090  -5.589  23.792  1.00  0.00     0.210 HD
+ENDBRANCH  35  42
+BRANCH  36  44
+HETATM   44  C6  KAN A  50       4.169  -4.162  21.811  1.00 38.72     0.264 C 
+BRANCH  44  45
+HETATM   45  N1  KAN A  50       3.503  -3.242  20.846  1.00 37.99    -0.077 N 
+ATOM     46  H13 KAN A  50       3.855  -3.383  19.899  1.00  0.00     0.274 HD
+ATOM     47  H12 KAN A  50       2.529  -3.505  20.698  1.00  0.00     0.274 HD
+ATOM     48  H11 KAN A  50       3.582  -2.265  21.128  1.00  0.00     0.274 HD
+ENDBRANCH  44  45
+ENDBRANCH  36  44
+ENDBRANCH  31  32
+ENDBRANCH   4  31
+BRANCH   5  49
+HETATM   49  N2  KAN A  50       0.222  -6.573  20.673  1.00 38.42    -0.072 N 
+ATOM     50  H23 KAN A  50       1.054  -6.486  21.256  1.00  0.00     0.274 HD
+ATOM     51  H22 KAN A  50       0.280  -5.685  20.174  1.00  0.00     0.274 HD
+ATOM     52  H21 KAN A  50      -0.623  -6.622  21.242  1.00  0.00     0.274 HD
+ENDBRANCH   5  49
+TORSDOF 17

@@ -1,0 +1,14 @@
+receptor = a_8ghu.pdbqt
+ligand = kanamycin.pdbqt
+
+center_x = 175
+center_y = 158
+center_z = 137
+
+size_x = 24
+size_y = 24
+size_z = 24
+
+out = out.pdbqt
+
+

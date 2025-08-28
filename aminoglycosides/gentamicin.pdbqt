@@ -1,0 +1,131 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  52 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C11_1  and  O11_2 
+REMARK    2  A    between atoms: O11_2  and  C42_28 
+REMARK    3  A    between atoms: C21_3  and  N21_4 
+REMARK    4  A    between atoms: C51_10  and  C61_12 
+REMARK    5  A    between atoms: C61_12  and  N61_13 
+REMARK    6  A    between atoms: C12_17  and  N12_18 
+REMARK    7  A    between atoms: C32_23  and  N32_24 
+REMARK    8  A    between atoms: C52_29  and  O52_30 
+REMARK    9  A    between atoms: C62_32  and  O62_33 
+REMARK   10  A    between atoms: O62_33  and  C13_34 
+REMARK   11  A    between atoms: C23_35  and  O23_36 
+REMARK   12  A    between atoms: C33_38  and  N33_39 
+REMARK   13  A    between atoms: C43_42  and  O43_43 
+REMARK   14  A    between atoms: C11_49  and  O11_50 
+REMARK   15  A    between atoms: O11_50  and  C42_76 
+REMARK   16  A    between atoms: C21_51  and  N21_52 
+REMARK   17  A    between atoms: C51_58  and  C61_60 
+REMARK   18  A    between atoms: C61_60  and  N61_61 
+REMARK   19  A    between atoms: C12_65  and  N12_66 
+REMARK   20  A    between atoms: C32_71  and  N32_72 
+REMARK   21  A    between atoms: C52_77  and  O52_78 
+REMARK   22  A    between atoms: C62_80  and  O62_81 
+REMARK   23  A    between atoms: O62_81  and  C13_82 
+REMARK   24  A    between atoms: C23_83  and  O23_84 
+REMARK   25  A    between atoms: C33_86  and  N33_87 
+REMARK   26  A    between atoms: C43_89  and  O43_90 
+REMARK   27  A    between atoms: C11_96  and  O11_97 
+REMARK   28  A    between atoms: O11_97  and  C42_123 
+REMARK   29  A    between atoms: C21_98  and  N21_99 
+REMARK   30  A    between atoms: C51_105  and  C61_107 
+REMARK   31  A    between atoms: C61_107  and  N61_108 
+REMARK   32  A    between atoms: C12_112  and  N12_113 
+REMARK   33  A    between atoms: C32_118  and  N32_119 
+REMARK   34  A    between atoms: C52_124  and  O52_125 
+REMARK   35  A    between atoms: C62_127  and  O62_128 
+REMARK   36  A    between atoms: O62_128  and  C13_129 
+REMARK   37  A    between atoms: C23_130  and  O23_131 
+REMARK   38  A    between atoms: C33_133  and  N33_134 
+REMARK   39  A    between atoms: C43_136  and  O43_137 
+REMARK   40  A    between atoms: C11_143  and  O11_144 
+REMARK   41  A    between atoms: O11_144  and  C42_170 
+REMARK   42  A    between atoms: C21_145  and  N21_146 
+REMARK   43  A    between atoms: C51_152  and  C61_154 
+REMARK   44  A    between atoms: C61_154  and  N61_155 
+REMARK   45  A    between atoms: C12_159  and  N12_160 
+REMARK   46  A    between atoms: C32_165  and  N32_166 
+REMARK   47  A    between atoms: C52_171  and  O52_172 
+REMARK   48  A    between atoms: C62_174  and  O62_175 
+REMARK   49  A    between atoms: O62_175  and  C13_176 
+REMARK   50  A    between atoms: C23_177  and  O23_178 
+REMARK   51  A    between atoms: C33_180  and  N33_181 
+REMARK   52  A    between atoms: C43_183  and  O43_184 
+ROOT
+HETATM    1  C12 LLL A1604     217.703 219.907 171.799  1.00 47.31     0.217 C 
+HETATM    2  C22 LLL A1604     216.803 220.398 170.661  1.00 45.68     0.071 C 
+HETATM    3  C32 LLL A1604     216.522 221.901 170.726  1.00 50.23     0.217 C 
+HETATM    4  C42 LLL A1604     217.820 222.729 170.840  1.00 53.35     0.186 C 
+HETATM    5  C52 LLL A1604     218.792 222.155 171.878  1.00 51.56     0.180 C 
+HETATM    6  C62 LLL A1604     219.030 220.662 171.746  1.00 47.69     0.186 C 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O11 LLL A1604     217.372 224.044 171.251  1.00 57.11    -0.349 OA
+BRANCH   7   8
+HETATM    8  C11 LLL A1604     218.279 225.113 171.308  1.00 66.19     0.291 C 
+HETATM    9  C21 LLL A1604     217.538 226.413 171.643  1.00 67.43     0.238 C 
+HETATM   10  C31 LLL A1604     216.674 226.913 170.490  1.00 71.89     0.040 C 
+HETATM   11  C41 LLL A1604     217.477 226.951 169.189  1.00 71.39     0.036 C 
+HETATM   12  C51 LLL A1604     218.146 225.610 168.935  1.00 74.51     0.150 C 
+HETATM   13  O51 LLL A1604     218.963 225.249 170.061  1.00 67.26    -0.352 OA
+BRANCH   9  14
+HETATM   14  N21 LLL A1604     216.723 226.298 172.864  1.00 70.18    -0.070 N 
+ATOM     15 3H21 LLL A1604     216.076 225.512 172.801  1.00  0.00     0.274 HD
+ATOM     16 2H21 LLL A1604     217.287 225.983 173.653  1.00  0.00     0.274 HD
+ATOM     17 1H21 LLL A1604     216.230 227.163 173.087  1.00  0.00     0.274 HD
+ENDBRANCH   9  14
+BRANCH  12  18
+HETATM   18  C61 LLL A1604     219.042 225.606 167.709  1.00 78.49     0.261 C 
+BRANCH  18  19
+HETATM   19  N61 LLL A1604     219.719 224.324 167.502  1.00 77.35    -0.077 N 
+ATOM     20 3H61 LLL A1604     220.239 224.048 168.335  1.00  0.00     0.274 HD
+ATOM     21 2H61 LLL A1604     219.046 223.558 167.465  1.00  0.00     0.274 HD
+ATOM     22 1H61 LLL A1604     220.321 224.321 166.678  1.00  0.00     0.274 HD
+ENDBRANCH  18  19
+ENDBRANCH  12  18
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   3  23
+HETATM   23  N32 LLL A1604     215.702 222.312 169.576  1.00 47.88    -0.072 N 
+ATOM     24 3H32 LLL A1604     216.126 222.041 168.689  1.00  0.00     0.274 HD
+ATOM     25 2H32 LLL A1604     214.843 221.766 169.505  1.00  0.00     0.274 HD
+ATOM     26 1H32 LLL A1604     215.515 223.314 169.619  1.00  0.00     0.274 HD
+ENDBRANCH   3  23
+BRANCH   5  27
+HETATM   27  O52 LLL A1604     220.067 222.769 171.690  1.00 53.03    -0.390 OA
+ATOM     28  H52 LLL A1604     220.669 222.413 172.333  1.00  0.00     0.210 HD
+ENDBRANCH   5  27
+BRANCH   6  29
+HETATM   29  O62 LLL A1604     219.869 220.260 172.842  1.00 46.32    -0.349 OA
+BRANCH  29  30
+HETATM   30  C13 LLL A1604     221.235 220.024 172.661  1.00 45.50     0.291 C 
+HETATM   31  C23 LLL A1604     221.526 218.598 173.116  1.00 49.71     0.198 C 
+HETATM   32  C33 LLL A1604     221.357 218.440 174.626  1.00 50.96     0.146 C 
+HETATM   33  C43 LLL A1604     222.054 219.571 175.423  1.00 47.44     0.098 C 
+HETATM   34  C53 LLL A1604     221.748 220.943 174.822  1.00 45.44     0.210 C 
+HETATM   35  C83 LLL A1604     221.672 219.557 176.899  1.00 50.41     0.050 C 
+HETATM   36  O53 LLL A1604     221.968 220.995 173.405  1.00 41.84    -0.356 OA
+BRANCH  31  37
+HETATM   37  O23 LLL A1604     220.656 217.691 172.464  1.00 51.21    -0.388 OA
+ATOM     38  H23 LLL A1604     220.837 216.803 172.747  1.00  0.00     0.210 HD
+ENDBRANCH  31  37
+BRANCH  32  39
+HETATM   39  N33 LLL A1604     221.888 217.119 174.996  1.00 60.94    -0.416 N 
+HETATM   40  C93 LLL A1604     221.034 216.336 175.878  1.00 67.56     0.140 C 
+ATOM     41  H33 LLL A1604     222.788 216.777 174.660  1.00  0.00     0.153 HD
+ENDBRANCH  32  39
+BRANCH  33  42
+HETATM   42  O43 LLL A1604     223.474 219.356 175.323  1.00 43.75    -0.386 OA
+ATOM     43  H43 LLL A1604     223.901 220.050 175.812  1.00  0.00     0.210 HD
+ENDBRANCH  33  42
+ENDBRANCH  29  30
+ENDBRANCH   6  29
+BRANCH   1  44
+HETATM   44  N12 LLL A1604     217.913 218.449 171.775  1.00 40.62    -0.072 N 
+ATOM     45 3H12 LLL A1604     217.022 217.952 171.774  1.00  0.00     0.274 HD
+ATOM     46 2H12 LLL A1604     218.272 218.147 170.869  1.00  0.00     0.274 HD
+ATOM     47 1H12 LLL A1604     218.512 218.122 172.533  1.00  0.00     0.274 HD
+ENDBRANCH   1  44
+TORSDOF 52

@@ -1,0 +1,14 @@
+receptor = a_4dr3.pdbqt
+ligand = kanamycin.pdbqt
+
+center_x = 190
+center_y = 88
+center_z = -7
+
+size_x = 24
+size_y = 24
+size_z = 24
+
+out = out.pdbqt
+
+
